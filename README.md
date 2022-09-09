@@ -1,4 +1,4 @@
-<h2> ### Bem vindo! 👋 </h2>
+<h2> ### Bem vindo(a)! 👋 </h2>
   <p2><h3>
 - 👓 Cursando Engenharia de Software na Católica SC </br>
 - 🚩 Procuro oportunidade no Back-End em qualquer linguagem;</br>
