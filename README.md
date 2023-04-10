@@ -10,7 +10,7 @@
   </p2>
 
 
-<img align="left" alt="Filipe-NodeJs" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" alt="Filipe-NodeJs" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
      <h4 style="display: inline_block"> ⏳ ✔ Ja sei </h4>
 
 <img align="left" alt="Filipe-JavaScript" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
